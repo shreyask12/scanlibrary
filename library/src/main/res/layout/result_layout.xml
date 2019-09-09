@@ -42,7 +42,8 @@
             android:drawableTop="@drawable/ic_gray"
             android:singleLine="true"
             android:text="Gray"
-            android:textColor="@android:color/white" />
+            android:textColor="@android:color/white" 
+            android:visibility="gone" />
             
 
         <Button
